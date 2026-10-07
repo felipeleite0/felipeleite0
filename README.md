@@ -1,6 +1,6 @@
 # Felipe Leite
 
-Estudante de Tecnologia da Informação e desenvolvedor em formação, com foco em projetos práticos de desenvolvimento web, APIs e banco de dados.
+Estudante de Ciência da Computação e desenvolvedor em formação, com foco em projetos práticos de desenvolvimento web, APIs e banco de dados.
 
 Tenho usado o GitHub para registrar minha evolução em programação e transformar estudos em aplicações organizadas, documentadas e próximas de situações reais. Atualmente busco uma oportunidade de estágio ou posição júnior em TI e desenvolvimento de software.
 
